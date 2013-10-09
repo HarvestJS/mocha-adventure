@@ -1,28 +1,10 @@
-[![Build Status](https://travis-ci.org/wearefractal/APPNAME.png?branch=master)](https://travis-ci.org/wearefractal/APPNAME)
+## mocha-adventure
 
-[![NPM version](https://badge.fury.io/js/APPNAME.png)](http://badge.fury.io/js/APPNAME)
-
-## Information
-
-<table>
-<tr> 
-<td>Package</td><td>APPNAME</td>
-</tr>
-<tr>
-<td>Description</td>
-<td>DESCRIPTIONHERE</td>
-</tr>
-<tr>
-<td>Node Version</td>
-<td>>= 0.4</td>
-</tr>
-</table>
+learn about testing with mocha
 
 ## Usage
 
-```coffee-script
-NOTHING HERE YET
-```
+`$ npm test`
 
 ## LICENSE
 

@@ -1,9 +1,9 @@
 {
-   "name":"APPNAME",
-   "description":"DESCRIPTIONHERE",
+   "name":"mocha-adventure",
+   "description":"learn testing with mocha",
    "version":"0.0.1",
-   "homepage":"http://github.com/wearefractal/APPNAME",
-   "repository":"git://github.com/wearefractal/APPNAME.git",
+   "homepage":"http://github.com/wearefractal/mocha-adventure",
+   "repository":"git://github.com/wearefractal/mocha-adventure.git",
    "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
    
    "dependencies":{
@@ -21,7 +21,7 @@
    "licenses":[
       {
          "type":"MIT",
-         "url":"http://github.com/wearefractal/APPNAME/raw/master/LICENSE"
+         "url":"http://github.com/wearefractal/mocha-adventure/raw/master/LICENSE"
       }
    ]
 }
