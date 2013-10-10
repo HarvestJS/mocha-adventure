@@ -1,5 +1,4 @@
-var should = require("should");
-var multiply = require('../lib/multiply');
+var multiply = require('../../lib/multiply');
 
 describe('multiply', function(){
   it('should multiply 2 numbers', function(done){

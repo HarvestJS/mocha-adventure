@@ -1,5 +1,4 @@
-var should = require("should");
-var add = require('../lib/add');
+var add = require('../../lib/add');
 
 describe('add', function(){
   it('should add 2 numbers', function(done){

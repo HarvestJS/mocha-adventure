@@ -1,5 +1,4 @@
-var should = require("should");
-var subtract = require('../lib/add');
+var subtract = require('../../lib/add');
 
 describe('subtract', function(){
   it('should subtract second number from first', function(done){
