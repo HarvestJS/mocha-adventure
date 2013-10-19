@@ -1,4 +1,4 @@
-var subtract = require('../../lib/add');
+var subtract = require('../../lib/subtract');
 var should = require('should');
 
 describe('subtract', function(){

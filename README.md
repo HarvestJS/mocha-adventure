@@ -2,6 +2,8 @@
 
 learn about testing with mocha
 
+http://slid.es/contra/mocha
+
 ## Usage
 
 `$ npm test`
