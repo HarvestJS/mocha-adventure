@@ -1,27 +1,26 @@
 {
-   "name":"mocha-adventure",
-   "description":"learn testing with mocha",
-   "version":"0.0.1",
-   "homepage":"http://github.com/wearefractal/mocha-adventure",
-   "repository":"git://github.com/wearefractal/mocha-adventure.git",
-   "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
-   
-   "dependencies":{
-   },
-   "devDependencies":{
-      "mocha":"*",
-      "should":"*"
-   },
-   "scripts":{
-      "test":"mocha"
-   },
-   "engines":{
-      "node":">= 0.4.0"
-   },
-   "licenses":[
-      {
-         "type":"MIT",
-         "url":"http://github.com/wearefractal/mocha-adventure/raw/master/LICENSE"
-      }
-   ]
+  "name": "mocha-adventure",
+  "description": "learn testing with mocha",
+  "version": "0.0.1",
+  "homepage": "http://github.com/wearefractal/mocha-adventure",
+  "repository": "git://github.com/wearefractal/mocha-adventure.git",
+  "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wearefractal/mocha-adventure/raw/master/LICENSE"
+    }
+  ]
 }
